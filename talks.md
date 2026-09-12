@@ -1,7 +1,7 @@
 # Conferences and Talks
 
 ### Conference Talks:      27 total of which 6 were invited
-### Seminars/Colloquia:  10 of which 5 were invited
+### Seminars/Colloquia:  11 of which 6 were invited
 
 --------------------
 
@@ -13,7 +13,7 @@
 --------------------
 
 ### Conference Talks: 
-- EAS (upcoming, summer 2026, 1x **Invited**, 2x Contributed)
+- EAS (June 2026, 1x **Invited**, 2x Contributed)
 - SKAO Science Conference (Plenary Speaker, June 2025)
 - COLOURS Workshop (**Invited**, June 2025)
 - LOFAR Family Meeting (**Invited**, June 2024)
