@@ -5,6 +5,8 @@ Outlined are the roles I have had with either student supervision or undergradua
 -------
 
 ### Supervision
+- 2026-present: PhD lead co-supervisor
+- 2026 (from October): MPhys projects co-supervisor
 - 2026:	Summer Project co-supervisor
 - 2024-present: PhD co-supervisor
 - 2023, 2024: Lead summer project co-supervisor
@@ -14,8 +16,10 @@ Outlined are the roles I have had with either student supervision or undergradua
 -------
 
 ### Teaching
-- 2024-2025: Physics Tutor for the fourth year Astrophysics Course at University of Oxford 
-- 2016-2017: Physics Tutor for the fourth year Astrophysics Course at University of Oxford
+- 2026 (from November): Lecturer for the Discovering Astronomy Course at the University of Edinburgh
+- 2024-2025: Physics Tutor for the fourth year Astrophysics Course at the University of Oxford 
+- 2024: Physics Tutor for the fourth year Astrophysics Course at the University of Oxford 
+- 2016-2017: Physics Tutor for the fourth year Astrophysics Course at the University of Oxford
 
  
 
