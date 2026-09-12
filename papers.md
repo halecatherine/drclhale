@@ -3,16 +3,18 @@
 Below is a list of my full publications, for a complete list please see [here](https://ui.adsabs.harvard.edu/public-libraries/j1DoU3QnTX-g6sTw_c7W0g)
 
 ### Summary: 
-Combined h-index of Refereed Publications:     27 (using ADS)
-Number of First Author Publications:      8 published, 1 submitted, 1 under collaboration review
-Total Number of Publications:    66 (published), 4 (submitted)
+Combined h-index of Refereed Publications:     28 (using ADS)
+
+Number of First Author Publications:      8 published, 1 accepted, 1 under collaboration review
+
+Total Number of Publications:    70 (published), 8 (submitted)
 
 ---------------
 
 ### First Author Publications 
-*8 Published, 1 submitted, 1 under collaboration review* 
+*8 Published, 1 accepted, 1 under collaboration review* 
 - **Hale**+ in prep. (under consortium review) - MIGHTEE: Continuum Data Release 2 - S-band observations of the XMM-LSS field and modelling the evolution in spectral index 
-- **Hale**+ submitted to MNRAS - MIGHTEE: Host-Galaxy Associated Catalogue of the Radio Sources in MIGHTEE Continuum Data Release 1 
+- **Hale**+ [accepted to MNRAS](https://doi.org/10.1093/mnras/stag1408) - MIGHTEE: Host-Galaxy Associated Catalogue of the Radio Sources in MIGHTEE Continuum Data Release 1 
 - **Hale**+ [2025, MNRAS, 544, 1323](https://doi.org/10.1093/mnras/staf1626) - The Clustering of Active Galactic Nuclei and Star Forming Galaxies in the LoTSS Deep Field 
 - **Hale**+ [2025, MNRAS, 536, 2187](https://doi.org/10.1093/mnras/stae2528) – MIGHTEE: The Continuum Survey Data Release 1 
 - **Hale**+ [2024, MNRAS, 527, 6540](https://doi.org/10.1093/mnras/stad3088) - Cosmology from LOFAR Two-metre Sky Survey Data Release 2: Angular clustering of radio sources
@@ -25,7 +27,7 @@ Total Number of Publications:    66 (published), 4 (submitted)
 ---------------
 
 ### Highly Listed Author Publications 
-*11 Published, 1 submitted*
+*12 Published, 1 submitted*
 - Hamlett, **Hale**, Jarvis+ submitted to MNRAS - Galaxy bias of radio AGN and star-forming galaxies from MIGHTEE and CMB lensing (*7 authors*)
 - Maksymowicz-Maciata, Maddox, **Hale**+ [accepted to MNRAS](https://arxiv.org/abs/2605.28731) - MIGHTEE-HI: Comparing 3-dimensional source finding methods and HI source catalogue for the COSMOS field (*15 authors*)
 - Hamlett, **Hale**, Jarvis+ [2026, MNRAS, 547, stag468](https://doi.org/10.1093/mnras/stag468) - MIGHTEE: The dark matter haloes, duty cycle and mechanical feedback from radio-AGN up to 𝑧∼2.5 (*6 authors*) 
@@ -43,11 +45,18 @@ Total Number of Publications:    66 (published), 4 (submitted)
 ---------------
 
 ### Other Refereed Journal Publications 
-*46 Published, 2 submitted*
+*49 Published, 7 submitted*
 
+- de Jong+ subm. to A&A
+- Pirie+ subm. to MNRAS
+- Stylianou+ subm. to MNRAS 
+- Jackson+ [subm. to MNRAS]([https://arxiv.org/abs/2601.20576](https://arxiv.org/abs/2607.03543)) - RA MIGHTEE robust measurement of the star formation rate – radio correlation
 - Yue+ [subm. to MNRAS](https://arxiv.org/abs/2601.20576) - Revealing the link between halo mass and radio jet activities in quasars
 - Piccirilli+ [subm. to A&A](https://arxiv.org/abs/2511.22732) - EMU: Cross-correlating EMU Pilot Survey 1 with Dark Energy Survey to constrain the radio galaxy redshift distribution
 - Shekhar Saraf+ [subm. to PASA](https://arxiv.org/abs/2505.05821) - EMU and Euclid: Detection of a radio-optical galaxy clustering cross-correlation signal between the Evolutionary Map of the Universe and Euclid
+- Binch+ 2026, [accepted to A&A](https://arxiv.org/abs/2609.10097v1) - The JWST Emission Line Survey (JELS): Multi-wavelength properties of Paschen line-emitters at Cosmic Noon
+- Arnaudova+ 2026, [MNRAS, 550, stag1229](https://doi.org/10.1093/mnras/stag1299) - The DESI view of the faint radio source population in LoTSS DR2
+- Dutta+ 2026, [MNRAS, 550, stag1328](https://doi.org/10.1093/mnras/stag1328) - A MIGHTEE robust measurement of the star formation rate–radio correlation
 - Thykkathu+ [2026, MNRAS, 548, stag616](https://doi.org/10.1093/mnras/stag616) - MIGHTEE: The evolving radio luminosity functions of star-forming galaxies to and the cosmic history of star formation
 - Shimwell+ [2026, A&A, 707, A198](https://doi.org/10.1051/0004-6361/202557749) - The LOFAR Two-metre Sky Survey: VII. Third Data Release
 - Varadaraj+ [2026, MNRAS, 547, stag473](https://doi.org/10.1093/mnras/stag473) - MIGHTEE/COSMOS-3D: the discovery of three spectroscopically confirmed radio-selected star-forming galaxies at z = 4.9-5.6
