@@ -1,5 +1,6 @@
 # Public Engagement and Outreach
 
+- February 2026: Evening Talk at the Royal Observatory Edinburgh (Edinburgh)
 - March 2025: Member of a panel for a “Careers in Astronomy” discussion for school girls (Oxford)
 - Nov 2024: Outreach talk for a Brownie Guides Group on Astronomy (Slough)
 - Apr 2024: Talk at Oriel College’s (University of Oxford) Easter Residential programme
